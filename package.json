@@ -1,0 +1,13 @@
+{
+    "name": "teste-tecnico-target-sistemas",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "start:questao2": "node src/questao-02-fibonacci/index.js",
+        "start:questao5": "node src/questao-05-inverter-string/index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {}
+}
